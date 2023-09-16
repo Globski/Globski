@@ -17,7 +17,7 @@
  </p>
 <br \>
 
- <h2 align="left">&nbsp;🥂 Let's Connect </h2>
+ <h2 align="left">🥂 Let's Connect </h2>
 <p align="left"> 
   <a href="mailto:gloria.ogunsemore@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -33,7 +33,7 @@
 </p>
 <br \>
 
-<h2 align="left">&nbsp;⚒️ Tech Stack ⚒️</h2>
+<h2 align="left">⚒️ Tech Stack ⚒️</h2>
 <p align="left">
         <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java,react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
     
