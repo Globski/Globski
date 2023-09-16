@@ -42,9 +42,7 @@
 
 <p align="left">
   <h2>🐍 My Contributions 🐍</h2>
-
-![Snake animation](https://github.com/Globski/Globski/blob/output/github-contribution-grid-snake.svg)
-
-![snake gif](https://github.com/globski/globski/blob/output/github-contribution-grid-snake.gif)
+    
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </p>
 
