@@ -44,5 +44,7 @@
   <h2>🐍 My Contributions 🐍</h2>
 
 ![Snake animation](https://github.com/Globski/Globski/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/globski/globski/blob/output/github-contribution-grid-snake.gif)
 </p>
 
