@@ -46,3 +46,7 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </p>
 
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+always+down+to+collab+:);Thanks+for+visiting!+✌️;shoot+me+a+message+on+Linkedin" />
+</h1>
+
