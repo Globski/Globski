@@ -9,7 +9,7 @@
 </h1>
 
 <p align="left">
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **java**
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/Globski/Globski/issues)**
 
