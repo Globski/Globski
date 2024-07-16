@@ -6,7 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=false&vCenter=true&width=500&height=70&lines=Welcome+to+my+GitHub+Profile!)
 
-- 🌱 Currently diving into **Java** and expanding my coding horizons!
+- 🌱 Currently diving into **Java** and expanding my skills!
 - 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/Globski/Globski/issues)**
 - ⚡ **Knowledge is a process of piling up facts; wisdom lies in their simplification.**
 
