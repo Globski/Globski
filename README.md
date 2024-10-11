@@ -1,8 +1,8 @@
+# Hi, I'm Gloria Ogunsemore! 👋
+
 <div align="right">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGlobski%2FGlobski%2F&label=VISITORS&countColor=%232ccce4">
 </div>
-
-# Hi, I'm Gloria Ogunsemore! 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=false&vCenter=true&width=500&height=70&lines=Welcome+to+my+GitHub+Profile!)
 
