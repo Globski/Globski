@@ -1,3 +1,6 @@
+![Coding Typing GIF](https://media.tenor.com/ynBf4sVC5WwAAAAC/coding-typing.gif)
+
+
 # Hi, I'm Gloria Ogunsemore! 👋
 
 <div align="right">
