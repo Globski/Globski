@@ -20,10 +20,3 @@
         <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java,react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=globski" alt="globski" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=globski&show_icons=true&locale=en&layout=compact" alt="globski" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=globski&show_icons=true&locale=en" alt="globski" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=globski&" alt="globski" /></p>
-
