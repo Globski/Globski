@@ -1,10 +1,10 @@
 ![image](https://github.com/user-attachments/assets/6b935284-0a7d-4877-b5f6-39fa619be3b3)
 
-<div align="center">
+<div align="left">
 <h1> Hi, I'm Gloria Ogunsemore! 👋</h1>
 </div>
 
-<div align="center">
+<div align="left">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGlobski%2FGlobski%2F&label=VISITORS&countColor=%232ccce4">
 </div>
 
