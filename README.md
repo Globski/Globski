@@ -4,7 +4,7 @@
 <h1> Hi, I'm Gloria Ogunsemore! 👋</h1>
 </div>
 
-<div align="left">
+<div align="right">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGlobski%2FGlobski%2F&label=VISITORS&countColor=%232ccce4">
 </div>
 
