@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/6b935284-0a7d-4877-b5f6-39fa619be3b3)
 
-<div align="left">
+<div align="right">
 <h1> Hi, I'm Gloria Ogunsemore! 👋</h1>
 </div>
 
