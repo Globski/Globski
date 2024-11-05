@@ -10,21 +10,21 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=false&vCenter=true&width=500&height=70&lines=Welcome+to+my+GitHub+Profile!)
 
----
+##
 
 ## About Me
 - 🌱 Currently diving into **Java** and expanding my skills!
 - 💬 Feel free to ask me about **Node.js, React, Firebase, MongoDB**, or anything else [here](https://github.com/Globski/Globski/issues).
 - ⚡ "Knowledge is a process of piling up facts; wisdom lies in their simplification."
 
----
+##
 
 ## ⚒️ Tech Stack
 <p align="left">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java,react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
 </p>
 
----
+##
 
 ## 🥂 Let's Connect
 <p align="left">
@@ -39,7 +39,7 @@
     </a>
 </p>
 
----
+##
 
 ## 🏆 GitHub Stats
 <p align="left">
